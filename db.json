@@ -1,0 +1,51 @@
+{
+    "questions": [
+        {
+            "question": "Who is Batman?",
+            "correct_answer": 0,
+            "selected_answer": null,
+            "answers": [
+                "Bruce Wayne",
+                "Clark Kent",
+                "Barry Allen",
+                "Tony Stark"
+            ]
+        },
+        {
+            "question": "Au on the Periodic Table refers to which element?",
+            "correct_answer": 1,
+            "selected_answer": null,
+            "answers": ["Silver", "Gold", "Oxygen", "Nickel"]
+        },
+
+        {
+            "question": "What is the capital of France?",
+            "correct_answer": 2,
+            "selected_answer": null,
+            "answers": ["Berlin", "Madrid", "Paris", "Rome"]
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "correct_answer": 3,
+            "selected_answer": null,
+            "answers": ["Venus", "Earth", "Mars", "Jupiter"]
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "correct_answer": 1,
+            "selected_answer": null,
+            "answers": [
+                "William Shakespeare",
+                "Charles Dickens",
+                "Jane Austen",
+                "George Orwell"
+            ]
+        },
+        {
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "correct_answer": 0,
+            "selected_answer": null,
+            "answers": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"]
+        }
+    ]
+}
